@@ -1,3 +1,3 @@
-# rpi_organ
-A multi-keyboard organ built around Raspberry Pi (or compatible boards), linked to custom hardware keyboards,
-pedals and organ stops
+# mqtt_organ
+A multi-keyboard organ based on [Squeack/rpi_organ](https://github.com/Squeack/rpi_organ) and [nwhitehead/pyfluidsynth](https://github.com/nwhitehead/pyfluidsynth).
+
